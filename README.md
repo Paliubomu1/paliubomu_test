@@ -1,2 +1,1 @@
-# paliubomu_test
-Setting Up Git
+Hello Odin
